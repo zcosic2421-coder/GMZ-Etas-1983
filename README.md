@@ -1,2 +1,2 @@
 # GMZ-Etas-1983
-Ovaj repozitorij sadrži dokumentaciju, električne sheme, dijagrame, firmware i prateće materijale za uređaj Generator morzeovih znakova - GMZ. Projekt je razvijen s ciljem pružanja uvida u arhitekturu sustava, način rada pojedinih modula.
+Ovaj repozitorij sadrži dokumentaciju, električne sheme, dijagrame i prateće materijale za uređaj Generator Morzeovih Znakova. GMZ je proizvod tvrtke Etas iz Splita u periodu 1983. do 1985. godine. Datum konstrukcije: 11. 1983. Konstruktor: Željko Ćosić dipl.ing.; Odobrio: Mladen Popović dipl. ing.; El. sheme Razradio: Sveto Lušić, Crtao: J. Ćuk
