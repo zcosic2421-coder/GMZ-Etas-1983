@@ -1,7 +1,7 @@
 **GMZ - Generator Morzeovih Znakova**   
 proizvod tvrtke ETAS iz Splita u periodu 1983. do 1985.  
   
-**Autori (izvorna dokumentacija):**   
+**Autori (izvorna dokumentacija el.sheme):**   
 Konstruktor: Željko Ćosić dipl.ing.   
 Razradio: Sveto Lušić  
 Crtao: J. Ćuk  
