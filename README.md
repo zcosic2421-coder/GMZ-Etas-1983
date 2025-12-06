@@ -15,4 +15,5 @@ GMZ modul MEMORIJA (el.shema)
 GMZ modul AUTOMAT (el.shema)  
 GMZ fotografija  
 **Namjena:**  
-GMZ je nastavnički uredjaj namjenjen za obuku radio-telegrafista
+GMZ je nastavnički uredjaj namjenjen za obuku radio-telegrafista.  
+Obuka se i
