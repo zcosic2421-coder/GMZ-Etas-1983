@@ -12,7 +12,7 @@ GMZ modul ISPRAVLJAČ-MONITOR (el.shema)
 GMZ modul TASTATURA (el.shema)  
 GMZ modul MEMORIJA (el.shema)  
 GMZ modul AUTOMAT (el.shema)  
-GMZ_1983_photos.jpg
+GMZ_1983_photos.jpg 
 **Namjena:**  
 GMZ je edukacijski uredjaj za operatore radio-telegrafije.
 Koristi se za učenje i vježbu Morzeovih znakova, sa mogućnošću generiranja znakova:
